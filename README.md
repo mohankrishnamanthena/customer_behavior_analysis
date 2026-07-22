@@ -125,9 +125,9 @@ This project is licensed under the MIT License.
 
 **Mohankrishna Mantena**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/mohankrishnamanthena
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/Mohankrishna Mantena
 
 ---
 
